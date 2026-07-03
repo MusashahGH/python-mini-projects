@@ -27,8 +27,8 @@ Generates a random 8-character password using a mix of letters, digits, and spec
 2. Make sure Python 3 is installed
 3. Run any file:
 ```bash
-   GUESS THE NUMBER GAME.py
-   RANDOM PASSWORD GENERATOR.py
+   GUESS_THE_NUMBER_GAME.py
+   RANDOM_PASSWORD_GENERATOR.py
 ```
 
 ## 🛠️ Tech Stack
