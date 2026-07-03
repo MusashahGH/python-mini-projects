@@ -1,5 +1,7 @@
 # 🐍 Python Mini Projects
 
+> ⭐ **Found this project interesting?** Drop a star — it means a lot and keeps me motivated to build more cool stuff!
+
 ![Projects](https://img.shields.io/badge/Projects-2-brightgreen)
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
 
